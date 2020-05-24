@@ -12,7 +12,6 @@ import utils.CookieManager;
 import utils.DriverManager;
 import utils.WaitManager;
 import utils.WindowManager;
-
 import java.io.File;
 import java.io.IOException;
 

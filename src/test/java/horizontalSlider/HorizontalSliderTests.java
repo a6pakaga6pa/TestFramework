@@ -2,7 +2,6 @@ package horizontalSlider;
 
 import base.BaseTests;
 import org.testng.annotations.Test;
-
 public class HorizontalSliderTests extends BaseTests {
 
     @Test

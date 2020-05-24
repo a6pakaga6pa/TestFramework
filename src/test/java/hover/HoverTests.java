@@ -1,14 +1,11 @@
 package hover;
 
 import base.BaseTests;
-import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.chrome.ChromeDriver;
 import org.openqa.selenium.chrome.ChromeOptions;
 import org.openqa.selenium.support.events.EventFiringWebDriver;
 import org.testng.annotations.Test;
 import pages.HomePage;
-import utils.EventReporter;
-
 import static org.testng.Assert.*;
 
 public class HoverTests extends BaseTests {

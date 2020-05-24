@@ -1,14 +1,7 @@
 package navigation;
 
 import base.BaseTests;
-import org.openqa.selenium.Keys;
-import org.openqa.selenium.interactions.Actions;
-import org.openqa.selenium.support.ui.WebDriverWait;
-import org.testng.annotations.BeforeMethod;
 import org.testng.annotations.Test;
-
-import java.util.Base64;
-
 import static org.testng.Assert.assertEquals;
 import static org.testng.Assert.assertTrue;
 
